@@ -1,6 +1,3 @@
-# DWUF
-Dartmouth Women's Ultimate Frisbee Website
-
 # Playout Website Editing Instructions
 
 By Anna "Tech Support" Matusewicz
